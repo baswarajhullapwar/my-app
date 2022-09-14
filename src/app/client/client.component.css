@@ -1,0 +1,17 @@
+div{
+   background-color: wheat;
+   margin: auto;
+   
+}
+
+
+.child1{
+   
+    padding: 20px;
+    height: 700px;
+    width: 100px;
+
+}
+.child2{
+ background-color: whitesmoke;
+}

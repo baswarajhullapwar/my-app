@@ -1,0 +1,17 @@
+div{
+    border: 1px solid gray;
+    margin: 0px;
+    padding: 5px;
+  
+   
+}
+div:hover{
+    border: 2px solid yellow;
+}
+label{
+   margin-left: 12px;
+   margin-right: 44px;
+}
+.visited{
+    font-weight: bold;
+}

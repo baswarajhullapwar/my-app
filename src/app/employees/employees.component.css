@@ -1,0 +1,28 @@
+
+label{
+    margin-right: 5%;
+}
+button{
+    text-align: center;
+}
+input{
+    font-size: 80%;
+    
+    margin-left: 15px;
+
+}
+.register{
+    text-align: center;
+    
+}
+.success{
+    text-align: center;
+}
+form{
+    height: 40%;
+}
+.something{
+    max-height: 150%;
+    max-width: 70%;
+}
+

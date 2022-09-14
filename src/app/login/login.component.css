@@ -1,0 +1,25 @@
+form{
+   
+    display: flex;
+    background-color: rgb(red, green, blue);
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    
+}
+button{
+   height: 40px;
+    width: 70px;
+    background-color: bisque;
+    
+    
+    
+}
+.parent{
+    background-color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+

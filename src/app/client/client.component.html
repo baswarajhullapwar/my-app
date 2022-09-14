@@ -1,0 +1,27 @@
+<div class="row">
+<div *ngFor="let client of clients" class="col-lg-6 col-md-3 col-sm-4 child1">
+    <div class="child2">
+
+    
+    <p>{{client.id}}</p>
+    <p>{{client.name}}</p>
+    <p>{{client.username}}</p>
+    <p>{{client.email}}</p>
+    <p>{{client.address.street}}</p>
+    <p>{{client.address.suite}}</p>
+    <p>{{client.address.city}}</p>
+    <p>{{client.address.zipcode}}</p>
+    <p>{{client.address.geo.lat}}</p>
+    <p>{{client.address.geo.lng}}</p>
+    <p>{{client.phone}}</p>
+    <p>{{client.website}}</p>
+    <p>{{client.company.name}}</p>
+    <p>{{client.company.catchPhrase}}</p>
+    <p>{{client.company.bs}}</p>
+</div>
+</div>
+</div>
+   
+    
+   
+
