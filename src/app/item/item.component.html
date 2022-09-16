@@ -1,12 +1,13 @@
-<p>item works!</p>
+<!--<p>item works!</p> 
+
 
 <div *ngFor="let item of items">
     <p>{{item.id}}</p>
     <p>{{item.title}}</p>
-</div>
+</div>-->
 
 
- <!-- <table class="table">
+  <table class="table">
     <thead>
         <tr>
             <th>id</th>
@@ -28,9 +29,10 @@
             <td>{{item.description}}</td>
             <td>{{item.category}}</td>
             <td><img src="{{item.image}}" width="100px"></td>
+            <app-star [rating]="item.rating.rate"></app-star>
             <td>{{item.rating.rate}}</td>
             <td>{{item.rating.count}}</td>
             
         </tr>
     </tbody>
-</table>  -->
+</table>  

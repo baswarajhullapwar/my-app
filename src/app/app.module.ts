@@ -34,6 +34,13 @@ import { EmailComponent } from './email/email.component';
 import { ClientComponent } from './client/client.component';
 import { CreatevehicleComponent } from './createvehicle/createvehicle.component';
 import { CreateUserComponent } from './create-user/create-user.component';
+import { ParentComponent } from './parent/parent.component';
+import { ChildComponent } from './child/child.component';
+import { StarComponent } from './star/star.component';
+import { ProductComponent } from './product/product.component';
+import { CartlistComponent } from './cartlist/cartlist.component';
+import { NavComponent } from './nav/nav.component';
+import { VehicleDetailsComponent } from './vehicle-details/vehicle-details.component';
 
 
 
@@ -69,6 +76,13 @@ import { CreateUserComponent } from './create-user/create-user.component';
     ClientComponent,
     CreatevehicleComponent,
     CreateUserComponent,
+    ParentComponent,
+    ChildComponent,
+    StarComponent,
+    ProductComponent,
+    CartlistComponent,
+    NavComponent,
+    VehicleDetailsComponent,
     
     
   ],
